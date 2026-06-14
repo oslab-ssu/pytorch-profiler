@@ -1,4 +1,4 @@
-# SNN-DNN Pytorch-Profiling Profiling 
+# SNN-DNN Pytorch-Profiler Profiling 
 코드 삽입을 통해 pytorch의 여러 연산들을 분석할 수 있습니다.
 
 ## 환경 세팅 (Prerequisites)
